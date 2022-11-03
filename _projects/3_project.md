@@ -1,16 +1,31 @@
 ---
 layout: page
 title: project 3
-description: a project that redirects to another website
+description: A semi-analytical model for the CPD's midplane temperature
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+#redirect: https://unsplash.com
 importance: 3
-category: work
+category: PhD
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In this project, I study the theoretical aspects that set the equilibrium temperature
+of dust grains in circumplanetary disks. This objects present several challengues
+to numerical integrators. For example, due to their compactness, they represent
+regions of very high optical depth where estimates of the energy based on the
+radom walk of photon packages become inneficient. To circumbent this problem, either
+long integration times or diffusive techniques are required. The first one has a
+computatinal limitation and the second one is challenging when the system under
+modelling is not axially symmetric.
+
+Therefore, semianalytical model become handy. I this project, I am extending the
+current models for equilibrium temperature of CPD's to consider a more realistic
+scenario for CPD's embedded in cavities in protoplanetary disk where the stellar
+photons are another source of heating in addition to the central planet. I study
+the implication of the stellar light attenuation inside the CPD to the potential
+synthesis of exomoons in those systems.
+
+This project is under development and will be the one of the chapters in my PhD
+thesis.  
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

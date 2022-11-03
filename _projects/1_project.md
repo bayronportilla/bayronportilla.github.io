@@ -1,15 +1,40 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: 3D modelling of the radiation transfer in PDS 70
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: PhD
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+PDS 70 is as T-Tauri star surrounded by a protoplanetary disk whose existence
+was determined via analysis of the infrared excess. With the advent of ALMA, the
+high resolution and sensitivity allowed to image the spacially resolved disk
+unvealing the presence of inner and outer disk, and a central cavity ~20 au wide.
+
+Aditionally, observations with the VLT/SPHERE instrument demonstrated the presence
+an embedded planet in the cavity whose existnece was further confirmed with
+observations of gas accretion which also detected a second source of accrection
+at 30 au. That second source was later confirmed to have planetary nature and
+once again ALMA confirmed that it is surrounded by a circumplanetary disk.
+
+Therefore, PDS 70 is the first system that allowed us to confirm the long-standing
+theory that planets form in disks of gas and dust.
+
+In my first project, I developed a 3D model for the transfer of the continuum
+radiation in the disk. I worked with ALMA and VLT/SPHERE archival data and my
+goal was to determine a set of parameters able to 
+reproduce the observations by VLT/SPHERE in polarised light (due to scatter with
+  the dust grains in the atmosphere of the disk) and with ALMA. The model also
+includes the planet PDS 70 c as a second source of heating which is surrounded
+by the CPD.
+
+Our model suggest an optically thin inner disk, a dust depleted cavity with a
+maximum dust column density of 1e-5 gcm-2, and dust filtration at the outer edge of
+the cavity. For the CPD, the model suggests it is an optically thick structure
+and we constrained the dust budget to the range 0.07-0.7 Earth masses.
+
+This research was published in Astronomy and Astrophysics main journal.   
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

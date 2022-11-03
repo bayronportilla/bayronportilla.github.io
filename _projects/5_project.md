@@ -1,15 +1,16 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: project 1
+description: Dynamical evolution in multi-planet system due to bodily tides
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: BSc
+
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In my bachelor's project I studied the spin-orbit interaction in exoplanetary
+systems using for the tides a model based on the Andrade rheology. Some aparts of
+this project were included on a paper where I partipated as co-author.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

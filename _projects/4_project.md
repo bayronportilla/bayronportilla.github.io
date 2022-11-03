@@ -1,15 +1,24 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: project 1
+description: Secular evolution on hierarchical three body systems
 img:
 importance: 3
-category: fun
+category: MSc
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+During my master project, I studied the secular evolution of three body systems
+with an special focus on circumbinary planets, of te S-type; i.e. a planet
+orbiting a star with an external perburtber on an inclined orbit. I developed
+a C-based code to integrate the equations of motion including the conservative
+motion to the gravitational interaction among the objects, the non-conservative
+motion due to the lack of sphericity both in the star and the planet and also
+due to the bodily tides exerceted mainly on the planet, and a general relativity
+correction for the time evolution of the argumenter of the pericenter which might
+be relevant in the case of a planet on a highly eccentric orbit.
+
+This project resulted in a paper published in MNRAS.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

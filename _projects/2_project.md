@@ -1,17 +1,34 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image
+description: Developing a thermochemical model for PDS 70
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: PhD
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+ALMA observations revealed several spectral features in the sub-mm spectrum towards
+PDS 70. Those features are associated to rotational transitions from several
+molecular species present in the disk. Modelling of the gas phase in the disk can
+help to understand those observations.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In this project I developed a thermochemical model based on the model for the
+continuum presented in [project 1](/projects/1_project/). We use propietary ALMA
+data of the CO and its isotopologues to construct a thermochemical model based on
+the model for the continuum presented in [project 1](/projects/1_project/). Given
+the angular resolution and sensitivity of the data set, we can spatially resolve
+faint emission from optically thick and thin isotopologues that allow us to
+estimate the gas distribution and the temperature structure of the gas.
+
+Once the model has been found, we aim to connect the different physical parameters
+to well-established theories of planet formation and predict the masses of the
+gap-carving panets observed in the infrared. This offers a unique opportunity to
+brdige the gap between observations and models and offers a direct way to test the
+predictions of planet formation theories since we there are two planets resinding
+in the cavity.
+
+This project is work in progress and I expect to submit the paper by the end of the
+calendar year.  
 
     ---
     layout: page
