@@ -2,24 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: bportilla@astro.rug.nl
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate working under the supervision of Prof. Dr. Inga Kamp at the
+Kapteyn Astronomical Institute in The Netherlands. My research focuses on the
+physical characterisation of protoplanetary and circumplanetary disks using
+radiative transfer models of their continuum and line emission.My goal is to test
+different aspects of the theoretical models of planet formation bridging the gap
+between theory and observations using static (time-independent) models of radiation
+transfer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In the theoretical side, I am particularly interested in expanding our understanding
+of the thermal environment of circumplanetary disk where they are embedded in the natal
+protoplanetary disk. I study the implications of external source of heating, the
+implications for the formation of exomoons, and for the CPD detectability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also interested in the evolved phases of planetary systems, particularly in
+the dynamical interactions among planets and stars. During my master I studied the
+secular evolution of hierarchical three body systems and during my bachelors
+I studied the tidal evolution of thightly packed exoplanets subject to N-body
+perturbations.   
+
+For a description of my research projects, click [here](/projects/)
