@@ -16,20 +16,16 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD candidate working with Professor Inga Kamp at the Kapteyn Astronomical
-Institute in The Netherlands. My research focuses on characterising the physical
+Institute. My research focuses on characterising the physical
 structure of protoplanetary and circumplanetary disks. I develop radiative
-transfer models to understand ground- and space-based observations across
+transfer models to interpret ground- and space-based observations across
 a broad range of wavelengths and use them to test different aspects of
-planet formation processes aiming to bridge the gap between theory and observations.
-I work in expanding our understanding of the thermal environment of circumplanetary
-disk when they are embedded in the natal protoplanetary disk. I evaluate the
-implications of external sources of heating on the formation of exomoons and CPD
-detectability.
+planet formation processes. My work aims at bridging the gap between theory and
+observations of planet and moon forming regions.
 
-I have also worked on the evolved phases of planetary systems, particularly in
-the dynamical interactions among planets and stars. During my master I studied the
-secular evolution of hierarchical three body systems and during my bachelors
-I studied the tidal evolution of thightly packed exoplanets subject to N-body
+I have also worked on the evolved phases of planetary systems. During my master
+I studied the secular evolution of hierarchical three body systems and in my bachelors
+I studied the tidal evolution of thightly packed exoplanets subjected to N-body
 perturbations.   
 
 For a description of my research projects, click [here](/projects/)
