@@ -15,17 +15,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate working with Prof. Inga Kamp at the Kapteyn Astronomical
+I am a PhD candidate working with Professor Inga Kamp at the Kapteyn Astronomical
 Institute in The Netherlands. My research focuses on characterising the physical
-structure of protoplanetary and circumplanetary disks. To this end, I develop radiative
-transfer models of disks to understand ground- and space-based observations across
-a broad range of wavelengths. I use those models to test different aspects of
+structure of protoplanetary and circumplanetary disks. I develop radiative
+transfer models to understand ground- and space-based observations across
+a broad range of wavelengths and use them to test different aspects of
 planet formation processes aiming to bridge the gap between theory and observations.
-
-I am interested in expanding our understanding of the thermal
-environment of circumplanetary disk when they are embedded in the natal
-protoplanetary disk. I evaluate the implications of external sources of heating on
-the formation of exomoons and CPD detectability.
+I work in expanding our understanding of the thermal environment of circumplanetary
+disk when they are embedded in the natal protoplanetary disk. I evaluate the
+implications of external sources of heating on the formation of exomoons and CPD
+detectability.
 
 I have also worked on the evolved phases of planetary systems, particularly in
 the dynamical interactions among planets and stars. During my master I studied the
