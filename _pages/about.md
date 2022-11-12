@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: bportilla@astro.rug.nl
+subtitle:
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
+  address: Contact <br> bportilla@astro.rug.nl 
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
