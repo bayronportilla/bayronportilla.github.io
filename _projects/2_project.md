@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: Developing a thermochemical model for PDS 70
-img: assets/img/3.jpg
+title: A thermochemical model for PDS 70
+description:
+img: 
 importance: 2
 category: PhD
 ---

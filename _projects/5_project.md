@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: Dynamical evolution in multi-planet system due to bodily tides
-img: assets/img/1.jpg
+title: Dynamical evolution in multi-planet system due to bodily tides
+description:
+img:
 importance: 3
 category: BSc
 

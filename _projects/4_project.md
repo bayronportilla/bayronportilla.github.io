@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Secular evolution on hierarchical three body systems
+title: Secular evolution on hierarchical three body systems
+description:
 img:
 importance: 3
 category: MSc

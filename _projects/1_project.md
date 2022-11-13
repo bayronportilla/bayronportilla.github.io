@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: 3D modelling of the radiation transfer in PDS 70
-img: assets/img/12.jpg
+title: Continuum modelling of the radiation transfer in PDS 70
+description:
+img: 
 importance: 1
 category: PhD
 ---
@@ -23,7 +23,7 @@ theory that planets form in disks of gas and dust.
 
 In my first project, I developed a 3D model for the transfer of the continuum
 radiation in the disk. I worked with ALMA and VLT/SPHERE archival data and my
-goal was to determine a set of parameters able to 
+goal was to determine a set of parameters able to
 reproduce the observations by VLT/SPHERE in polarised light (due to scatter with
   the dust grains in the atmosphere of the disk) and with ALMA. The model also
 includes the planet PDS 70 c as a second source of heating which is surrounded

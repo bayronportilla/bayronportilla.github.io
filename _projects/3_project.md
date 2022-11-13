@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: A semi-analytical model for the CPD's midplane temperature
-img: assets/img/7.jpg
+title: A semi-analytical model for the CPD's midplane temperature
+description:
+img: 
 #redirect: https://unsplash.com
 importance: 3
 category: PhD
