@@ -25,7 +25,7 @@ observations of planet and moon forming regions.
 
 I have also worked on the evolved phases of planetary systems. During my master
 I studied the secular evolution of hierarchical three body systems and in my bachelors
-I studied the tidal evolution of thightly packed exoplanets subjected to N-body
+I studied the tidal evolution of tightly packed exoplanets subjected to N-body
 perturbations.   
 
 For a description of my research projects, click [here](/projects/)
