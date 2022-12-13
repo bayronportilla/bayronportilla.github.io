@@ -45,6 +45,7 @@ When the final temperarture profile is used to solve for the desorption temperat
 CO, two mathematically allowed solutions are found, which physically corresponds to
 two differnt icelines in the CPD midplane.    
 
-What are the implications of this for the formation of exomoons? How can we test
+What are the implications of this for the formation of exomoons? What is the role of
+the second iceline in the context of radial drift of solids form the outer CPD?  How can we test
 this prediction observationally? This project is under development and will be the one
 of the chapters in my PhD thesis.  
