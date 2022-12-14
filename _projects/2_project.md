@@ -7,44 +7,35 @@ importance: 2
 category: PhD
 ---
 
-ALMA revealed several rotational features in the sub-mm spectrum towards PDS 70. Those
-features are associated to different molecules in the coldest
-regions of the disk. Since the gas phase is the dominant component, its distribution across
-the disk links to some of the most its most promiment features, like
-the planets in the cavity, and the location of the pressure bump at the outer
-dust ring. For this same reason, the gas distribution is a key parameter on which
-multiple theoretical predictions have been built upon. A physically
-motivated model for the gas phase is needed to understand those observations and test
+ALMA revealed several features in the sub-mm spectrum towards PDS 70 that are associated
+with molecules in the coldest
+regions of the disk. Since the gas component dominates the disk's mass,
+inferring its distribution across
+the disk is important to understand some of the most prominent features such as
+the planets in the cavity. Accordingly, the gas column density is a key parameter on which
+several predictions are built upon. A physically
+motivated model for the gas phase is needed to understand the observations and to test
 theoretical predictions. Our goal is to develop a thermochemical model to explain the
-gas phase observations from PDDS 70 and use it to estimate the mass of the
-gap carving planets. This experiment represents a test to theoretical ideas about
-giant planet formation in protoplanetary disks.  
+line emission observed from PDS 70 and use it to estimate the mass of the
+gap carving planets.
 
-Using ALMA data for the CO molecule and its isotopologues from the PDS 70 disk (CO J=2-1, 13CO J=2-1,
-  and C18O J=2-1), we construct a thermochemical model building upon
-the model for the continuum introduced in [project 1](/projects/1_project/). I use the
-Protoplanetary Disk Model code (ProDiMo) for which a dedicated translation strategy from
-MCMax3D was designed and implemented. The first part of the modelling consisted in
-a parametric exploration of the spacially unresolved inner disk that is only observed in the optically
-thick tracer. Each simualtion is a self-consistent solution to the physical state of the system
-that iterates over the continuum radiative transfer, the chemistry, and the heating-cooling
-balance. The, the ray-tracing module is called to create the images. Those modelled
-data cubes were postproceded with CASA and the packages GoFish and ProDiMopy to
-obtain the azimuthally averaged birthness distribution of each transition which
-was compared to the observations. Once the inner disk was fitted, we used an iterative
-procedure informed by a simple analyical model for the C18O abundance to fit the signal
-from the spatially resolved outer disk.
+Using ALMA data for three CO isotopologues (CO J=2-1, 13CO J=2-1,
+  and C18O J=2-1), we construct a thermochemical model using the
+Protoplanetary Disk Model Code [ProDiMo](https://prodimo.iwf.oeaw.ac.at/team).
+The first part of the modelling consisted in
+a parametric exploration to explain the signal from the spatially unresolved inner disk.
+Then, we used an iterative
+procedure to fit the signal
+from the spatially resolved outer disk. The models were post-proceded with CASA and with the GoFish and ProDiMopy packages in order to
+obtain the radial brightness distribution that was directly
+compared to the observed profiles.
 
-We found a gas-to-dust ratio profile that disfavors the common assumptions of a constant
-value. In fact, the gas-to-dust ratio values span two orders of magnitude across
-the 130 au simulated in our work. Our model suggest a peak value of gas column density
-of ~0.13 g/cm2 located at ~75 au. The minimum value of the gas column density (~0.003 g/cm2)
-happens matches the location of the planet PDS 70 b. Unlike the dust phase, the inner
-and outer edges of the gas cavity are not sharp. The gas temperature profile points
-towards a characteristic value of xxxx K at the bottom of the cavity. Finally, coupling
-our model with the theoretical prediction by Duffel and Dong 2015, we predict a
-value for the mass of each planet of ~ 2 Mjup which is consistent with the values
-obtained by Wang et al 2021 using infrared spectroscopy.     
+We found a peak value for the gas column density
+of ~0.13 g/cm2 at ~75 au. The minimum value for the gas column density is ~0.003 g/cm2
+and correlates with the location of the planet PDS 70 b. Coupling the level of gas depletion in
+the cavity informed by our model with the theoretical work by Duffel and Dong 2015, we estimate the
+value of the mass of each planet in ~2 Mjup which is consistent with the work by Wang et al 2021
+using infrared spectroscopy.     
 
 This project is in the final correction phase and I expect to submit the paper by the end of 2022.
 Stay tuned for the manuscript!  

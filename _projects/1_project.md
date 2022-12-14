@@ -10,9 +10,7 @@ category: PhD
 PDS 70 is as T-Tauri star with a protoplanetary disk first discovered via infrared
 excess analysis. The high resolution and sensitivity of ALMA allowed to spatially
 resolve the disk in the sub-mm continuum revealing the presence of inner and outer disk, and a central
-cavity ~20 au wide.
-
-Additionally, observations with the SPHERE instrument at VLT demonstrated the presence
+cavity ~20 au wide. Additionally, observations with the SPHERE instrument at VLT demonstrated the presence
 an embedded planet (PDS 70 b) in the cavity that was confirmed later on by H-alpha observations.
 The later observation also detected a second source of accretion close to the outer
 dust ring that was later confirmed to have planetary nature (PDS 70 c). A subsequent ALMA
