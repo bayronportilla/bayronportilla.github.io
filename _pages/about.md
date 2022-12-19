@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: --- site under construction ---
+subtitle:
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: Contact <br> bportilla@astro.rug.nl
+  address:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,5 +27,3 @@ I have also worked on the evolved phases of planetary systems. During my master
 I studied the secular evolution of hierarchical three body systems and in my bachelors
 I studied the tidal evolution of tightly packed exoplanets subjected to N-body
 perturbations.   
-
-For a description of my research projects, click [here](/projects/)
