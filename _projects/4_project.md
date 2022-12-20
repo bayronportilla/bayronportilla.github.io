@@ -33,7 +33,7 @@ HD 80606b assuming constant stellar properties and found that the timescale of e
 differs greatly when one includes the
 octupolar terms because those induce additional modulations on
 the eccentricity and semi-major axis evolution. Using stellar evolution tracks, I simulated
-a hypothetical circumstellar planet on a $$0.6 \ M_odot \ (\times 2)$$ binary
+a hypothetical circumstellar planet on a $$0.6 \ M_\odot \ (\times 2)$$ binary
 and found that the stellar contraction decreases by a factor of two the time it would take for
 the orbit of the planet to decay to a half of its initial value. We conclude that
 the effect of stellar evolution during the pre-main-sequence
