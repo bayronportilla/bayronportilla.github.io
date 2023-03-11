@@ -37,8 +37,7 @@ at a semi-major axis equal to the orbital separation of the planet PDS 70 b, ~20
 I use the level of gas depletion in
 the cavity that is directly inferred from our model as an input to the scaling relation
 presented in Duffel & Dong 2015 and estimated the
-mass of each planet to be equal to $$\sim 2 M_\mathrm{jup}$$. This is consistent within the uncertainties
+mass of each planet to be equal to $$\sim 4 M_\mathrm{jup}$$. This is consistent within the uncertainties
 of the value reported by Wang et al. 2021 that was obtained using infrared spectroscopy.     
 
-This project is in the final correction phase and I expect to submit the paper by the end of 2022.
 Stay tuned for the manuscript!  
