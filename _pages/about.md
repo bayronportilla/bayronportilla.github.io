@@ -20,8 +20,7 @@ Institute. My research focuses on characterising the physical
 structure of protoplanetary and circumplanetary disks. I develop radiative
 transfer models to interpret ground- and space-based observations across
 a broad range of wavelengths and use them to test different aspects of
-planet formation processes. My work aims at bridging the gap between theory and
-observations of planet and moon forming regions.
+planet formation processes. 
 
 I have also worked on the evolved phases of planetary systems. During my master
 I studied the secular evolution of hierarchical three body systems and in my bachelors
