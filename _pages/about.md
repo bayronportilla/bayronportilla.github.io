@@ -20,9 +20,9 @@ Institute. My research focuses on characterising the physical
 structure of protoplanetary and circumplanetary disks. I develop radiative
 transfer models to interpret ground- and space-based observations across
 a broad range of wavelengths and use them to test different aspects of
-planet formation processes. 
+planet formation processes.
 
-I have also worked on the evolved phases of planetary systems. During my master
-I studied the secular evolution of hierarchical three body systems and in my bachelors
-I studied the tidal evolution of tightly packed exoplanets subjected to N-body
+I have also worked on the evolved phases of planetary systems. During my master's degree,
+I studied the secular evolution of hierarchical three body systems. In my bachelor's
+thesis, I worked on the tidal evolution of tightly packed exoplanets subjected to N-body
 perturbations.   
