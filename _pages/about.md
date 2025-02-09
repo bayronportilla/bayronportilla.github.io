@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Scholar in the Eberly College of Science, within the Department of Astronomy and Astrophysics at the Pennsylvania State University. My research focuses on characterising the physical
+I am a Postdoctoral Scholar in the Eberly College of Science, within the Department of Astronomy and Astrophysics, at the Pennsylvania State University. My research focuses on characterising the physical
 structure of protoplanetary and circumplanetary disks. I develop radiative
 transfer models to interpret ground- and space-based observations across
 a broad range of wavelengths and use them to test different aspects of
